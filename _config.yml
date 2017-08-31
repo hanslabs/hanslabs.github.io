@@ -12,11 +12,12 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     yao-zuo-bu-ke-neng-de-shi
+weibo_username:     hanslab
+zhihu_username:     hanslab
 github_username:    hanslabs
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
+huaban_username:    hanslab
 
 
 
@@ -85,8 +86,8 @@ friends: [
         title: "hans Blog",
         href: "http://fanduifa.top"
     },{
-        title: "Foo",
-        href: "#"
+        title: "han' huaban",
+        href: "www.huaban.com/hanslab"
     },{
         title: "Bar",
         href: "#"
