@@ -25,7 +25,7 @@
                     </li>
                     {% endif %}
 
-                    <!-- add Weibo, Zhihu by Hux, add target = "_blank" to <a> by Hux -->
+                    <!-- add Weibo, Zhihu by Han, add target = "_blank" to <a> by Hux -->
                     {% if site.zhihu_username %}
                     <li>
                         <a target="_blank" href="https://www.zhihu.com/people/{{ site.zhihu_username }}">
@@ -46,7 +46,16 @@
                         </a>
                     </li>
                     {% endif %}
-
+                    {% if site.huaban_username %}
+                    <li>
+                        <a target="_blank" href="http://www.huaban.com/{{ site.huaban_username }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
 
                     {% if site.facebook_username %}
                     <li>
@@ -72,11 +81,11 @@
                 <p class="copyright text-muted">
                     Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
                     <br>
-                    Theme by <a href="http://huangxuan.me">Hux</a> |
+                    Theme by <a href="http://fanduifa.top">Han</a> |
                     <iframe
                         style="margin-left: 2px; margin-bottom:-5px;"
                         frameborder="0" scrolling="0" width="91px" height="20px"
-                        src="https://ghbtns.com/github-btn.html?user=huxpro&repo=huxpro.github.io&type=star&count=true" >
+                        src="https://ghbtns.com/github-btn.html?user=hanslabs&repo=hanslabs.github.io&type=star&count=true" >
                     </iframe>
                 </p>
             </div>
@@ -91,7 +100,7 @@
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="{{ "/js/hux-blog.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/js/han-blog.min.js " | prepend: site.baseurl }}"></script>
 
 
 <!-- async load function -->
@@ -170,7 +179,7 @@
 <!-- Baidu Tongji -->
 {% if site.ba_track_id %}
 <script>
-    // dynamic User by Hux
+    // dynamic User by Han
     var _baId = '{{ site.ba_track_id }}';
 
     // Originial

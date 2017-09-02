@@ -1,9 +1,3 @@
-# HuxBlog Boilerplate
+# [www.fanduifa.top](www.fanduifa.top) 
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
-
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+本博客所用的主题fork自[Hux Blog](https://github.com/Huxpro/huxpro.github.io)，如果你有兴趣，可以直接去源git上查看内容!
