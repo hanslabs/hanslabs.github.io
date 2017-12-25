@@ -3,8 +3,8 @@ title: 天空之城
 SEOTitle: 天空之城 | Castle in the Sky
 header-img: img/home-bg.jpg
 email: hanslab@aliyun.com
-description: ""
-keyword: ""
+description: "记录不变的变化"
+keyword: "hanslab, 变化"
 url: "http://fanduifa.top"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,12 +12,9 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     hanslab
 zhihu_username:     hanslab
 github_username:    hanslabs
-#twitter_username:  hanslab
 facebook_username:  libvirtd
-huaban_username:    hanslab
 
 
 
