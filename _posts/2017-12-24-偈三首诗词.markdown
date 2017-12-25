@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Welcome to Han's Blog"
-subtitle:   " \"Hello World, Hello Blog\""
+title:      "记三首诗词"
+subtitle:   " \"喜欢然后卓越\""
 date:       2017-12-24 13:00:00
 author:     "Han"
 header-img: "img/post-bg-2015.jpg"``
@@ -16,6 +16,7 @@ tags:
 
 
 ![avatar](http://img.hb.aicdn.com/6263890b327e66fc64e98b171d5608e5596315fe4a0b67-RduBBW_fw658)
+![avatar](/img/post/PSX_20171223_1931413.jpg)
 
 	一掷梭心一缕丝，连连织就九张机。从来巧思知多少，苦恨春风久不归。
 	一张机，织梭光景去如飞。兰房夜永愁无寐，呕呕轧轧，织成春恨，留著待郎归。
